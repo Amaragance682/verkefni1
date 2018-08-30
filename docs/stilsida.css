@@ -1,0 +1,40 @@
+body{
+		max-width: 50em;
+		border: 1px solid blue;
+		padding: 1em;
+		margin-left: auto;
+		margin-right: auto;
+		font-family: 'Trebuchet MS', 'Lucida Sans', sans-serif;
+}
+h1{
+	color: blue;
+
+}
+h2{
+	color: brown;
+}
+.Lennon{
+	color: blue;
+	font-style: italic;
+}
+.Lennon stong{
+	color: red;
+}
+ul li{
+	color: green;
+}
+em{
+	color: #00f;
+}
+p strong {
+	color: red;
+}
+a:link {
+	color: red;
+}
+a:visited {
+	color:green;
+}
+a:hover{
+	color: #00f;
+}
